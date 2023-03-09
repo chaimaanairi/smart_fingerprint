@@ -1,0 +1,16 @@
+{
+    "description": "Blueish creature. Very fast and strong.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUdCYr1ydkyjRjn34bLZJmE2ogGtoASrKjKPuwG4HDNqq",
+    "name": "Course-1",
+    "attributes": [
+      {
+        "trait_type": "course type",
+        "value": "image"
+      },
+      {
+        "trait_type": "owner name",
+        "value": "anonymous"
+      }
+    ]
+  }
+  
