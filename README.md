@@ -1,4 +1,4 @@
-##Smart Fingerprint
+# Smart Fingerprint
 
 <h2> Main page </h2>
 
