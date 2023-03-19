@@ -1,6 +1,6 @@
 # Smart Fingerprint
 
-<h2> Tasarim dersin Projesi </h2>
+<h3> Project of design course - Tasarim dersi Projesi </h3>
 
 Main page
 
