@@ -35,4 +35,4 @@ To establish a seamless connection between the front end and the smart contract,
 <b>Metamask Installation:</b> Users install Metamask as a browser extension to establish a secure connection with the blockchain.</br>
 <b>Web3.js Middleware:</b> Integration of Web3.js as a middleware to ensure seamless communication between the front-end and the blockchain.</br>
 <b>Blockchain Interaction:</b> Users interact with the decentralized application through the Metamask wallet, connecting to the blockchain.</br>
-By incorporating these three interconnected components, the project aims to deliver a robust and decentralized solution, combining a user-friendly interface with secure and immutable smart contract execution on the blockchain.</br>
+By incorporating these three interconnected components, the project aims to deliver a robust and decentralized solution, combining a user-friendly interface with secure and immutable smart contract execution on the blockchain.</br></br>
