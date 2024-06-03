@@ -38,14 +38,15 @@ To establish a seamless connection between the front end and the smart contract,
 By incorporating these three interconnected components, the project aims to deliver a robust and decentralized solution, combining a user-friendly interface with secure and immutable smart contract execution on the blockchain.</br>
 
 
-## Connect metamask: 
+### Connect metamask: 
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/2cd520fe-5529-4679-afa1-9394affb1e1a)
 
-## Selecting the Correct Network: 
+### Selecting the Correct Network: 
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/22a802f0-ac70-4072-8f15-592d1c5a0307)
 
-## Platform workflow: Ganache:
+### Platform workflow: Ganache:
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/d4230c12-6e4a-4902-b94e-b1422f846e86)
 
+<img src="https://example.com/image.jpg" alt="Description of the image" width="300" height="200">
 
 
