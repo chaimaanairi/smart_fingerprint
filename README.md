@@ -1,8 +1,6 @@
 # Smart Fingerprint
 
-<h3> Project of design course - Tasarim dersi Projesi </h3>
-
-<h2>Main page</h2>
+Smart Fingerprint is a blockchain-based education platform designed to revolutionize the e-learning landscape.</br></br>
 
 ![1-mainPage](https://user-images.githubusercontent.com/83820363/223975924-b234e1a7-1b4d-474b-baae-0639b6c0f829.png)
 
