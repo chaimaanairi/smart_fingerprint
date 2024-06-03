@@ -39,14 +39,13 @@ By incorporating these three interconnected components, the project aims to deli
 
 
 ### Connect metamask: 
-![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/2cd520fe-5529-4679-afa1-9394affb1e1a)
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/dd8375dc-0628-4d5d-a77e-a907e9086db8)
 
 ### Selecting the Correct Network: 
-![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/22a802f0-ac70-4072-8f15-592d1c5a0307)
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/809ec468-dac3-437a-8ac8-350884157bea)
 
 ### Platform workflow: Ganache:
-![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/d4230c12-6e4a-4902-b94e-b1422f846e86)
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/c0bb6cdf-df28-4986-8448-ced80742bbf0)
 
-<img src="https://example.com/image.jpg" alt="Description of the image" width="300" height="200">
 
 
