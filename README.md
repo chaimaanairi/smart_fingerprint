@@ -36,3 +36,7 @@ To establish a seamless connection between the front end and the smart contract,
 <b>Web3.js Middleware:</b> Integration of Web3.js as a middleware to ensure seamless communication between the front-end and the blockchain.</br>
 <b>Blockchain Interaction:</b> Users interact with the decentralized application through the Metamask wallet, connecting to the blockchain.</br>
 By incorporating these three interconnected components, the project aims to deliver a robust and decentralized solution, combining a user-friendly interface with secure and immutable smart contract execution on the blockchain.</br>
+
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/a2f96016-7b49-4abc-8f7a-4b3dbad9ad17)
+
+
