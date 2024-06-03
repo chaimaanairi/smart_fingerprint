@@ -39,4 +39,7 @@ By incorporating these three interconnected components, the project aims to deli
 
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/a2f96016-7b49-4abc-8f7a-4b3dbad9ad17)
 
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/bb91d30d-b7e4-4183-9a2e-76520d29f023)
+
+![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/b9480e06-dcca-47bf-b35c-6e4e806d5437)
 
