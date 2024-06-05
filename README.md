@@ -18,7 +18,7 @@ The front-end component of the project plays a crucial role in providing a user-
 <h3> 2. Smart Contract Development</h3>
 The smart contract forms the core logic of the decentralized application (DApp). It is essential to note that smart contracts are immutable once deployed on the blockchain. The development process involves:</br>
 
-Deployment on Ganache: Initial testing and interaction with the smart contract occur on the Ganache local blockchain.</br>
+<b>Deployment on Ganache:</b> Initial testing and interaction with the smart contract occur on the Ganache local blockchain.</br>
 <b>Immutability:</b> Smart contracts are programmed to run seamlessly on the blockchain, and changes to their code post-deployment are not possible.</br>
 
 <h3> 3. Middleware Integration with Web3.js</h3>
