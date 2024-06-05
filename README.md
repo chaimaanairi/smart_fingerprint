@@ -4,6 +4,7 @@ Smart Fingerprint is a blockchain-based education platform.</br></br>
 
 ![1-mainPage](https://user-images.githubusercontent.com/83820363/223975924-b234e1a7-1b4d-474b-baae-0639b6c0f829.png)
 
+![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/10ca5058-91f2-4603-a831-2bdb1009621c)
 
 <h2> Project Architecture Overview</h2>
 <h3> 1. Front-End Development</h3>
@@ -36,14 +37,19 @@ To establish a seamless connection between the front end and the smart contract,
 By incorporating these three interconnected components, the project aims to deliver a robust and decentralized solution, combining a user-friendly interface with secure and immutable smart contract execution on the blockchain.</br>
 
 
-### Connect metamask: 
-![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/dd8375dc-0628-4d5d-a77e-a907e9086db8)
+### Courses marketPlace page: 
+![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/df67a850-6165-4c08-a09a-ba0cabda3d57)
 
 ### Selecting the Correct Network: 
-![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/809ec468-dac3-437a-8ac8-350884157bea)
+![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/88f1a0a9-23a7-4b06-bba2-213a2388912c)
+
+![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/5660df30-51e9-47ee-9853-95a8f37e9796)
 
 ### Platform workflow: Ganache:
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/c0bb6cdf-df28-4986-8448-ced80742bbf0)
+
+### Ganache 
+![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/39991e5e-d808-464f-92d9-2ee41ce3501e)
 
 
 
