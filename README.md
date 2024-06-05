@@ -41,11 +41,9 @@ By incorporating these three interconnected components, the project aims to deli
 ### Selecting the Correct Network: 
 ![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/4e57463a-25e3-454c-a57e-95bd483cc5d8)
 
-![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/5660df30-51e9-47ee-9853-95a8f37e9796)
-
-### Platform workflow: Ganache:
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/c0bb6cdf-df28-4986-8448-ced80742bbf0)
 
+### Ganache
 ![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/39991e5e-d808-464f-92d9-2ee41ce3501e)
 
 
