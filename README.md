@@ -43,7 +43,7 @@ By incorporating these three interconnected components, the project aims to deli
 
 ![image](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/c0bb6cdf-df28-4986-8448-ced80742bbf0)
 
-### Ganache
+### Ganache:
 ![Capture d’écran ](https://github.com/ChaimaaNairi/Smart_fingerPrint/assets/83820363/39991e5e-d808-464f-92d9-2ee41ce3501e)
 
 
