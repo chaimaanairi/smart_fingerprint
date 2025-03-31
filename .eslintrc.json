@@ -1,3 +1,4 @@
 {
+  // Extending from the default Next.js core web vitals ESLint configuration
   "extends": "next/core-web-vitals"
 }
