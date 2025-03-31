@@ -1,129 +1,146 @@
+/* Container class for general layout padding */
 .container {
-  padding: 0 2rem;
+  padding: 0 2rem; /* Adds 2rem padding on left and right */
 }
 
+/* Main content area styling */
 .main {
-  min-height: 100vh;
-  padding: 4rem 0;
-  flex: 1;
+  min-height: 100vh; /* Ensures the main content takes up at least the full height of the viewport */
+  padding: 4rem 0; /* Adds vertical padding of 4rem at the top and bottom */
+  flex: 1; /* Allows the main content to grow and take up remaining space */
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column; /* Arranges child elements in a column */
+  justify-content: center; /* Centers content vertically */
+  align-items: center; /* Centers content horizontally */
 }
 
+/* Footer section styling */
 .footer {
   display: flex;
-  flex: 1;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  justify-content: center;
-  align-items: center;
+  flex: 1; /* Makes the footer stretch to take up remaining space */
+  padding: 2rem 0; /* Adds vertical padding of 2rem */
+  border-top: 1px solid #eaeaea; /* Adds a light border on top */
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
 }
 
+/* Footer links */
 .footer a {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
+  justify-content: center; /* Centers the link content horizontally */
+  align-items: center; /* Centers the link content vertically */
+  flex-grow: 1; /* Allows the link to grow and fill available space */
 }
 
+/* Styling for title links */
 .title a {
-  color: #0070f3;
-  text-decoration: none;
+  color: #0070f3; /* Blue color for the link */
+  text-decoration: none; /* Removes underline */
 }
 
+/* Hover, focus, and active states for title links */
 .title a:hover,
 .title a:focus,
 .title a:active {
-  text-decoration: underline;
+  text-decoration: underline; /* Underlines the link when hovered or focused */
 }
 
+/* Title styling */
 .title {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  margin: 0; /* Removes any default margin */
+  line-height: 1.15; /* Sets line height for better readability */
+  font-size: 4rem; /* Large font size for the title */
 }
 
+/* General text alignment for title and description */
 .title,
 .description {
-  text-align: center;
+  text-align: center; /* Centers text */
 }
 
+/* Description section styling */
 .description {
-  margin: 4rem 0;
-  line-height: 1.5;
-  font-size: 1.5rem;
+  margin: 4rem 0; /* Adds margin of 4rem on top and bottom */
+  line-height: 1.5; /* Sets line height for better readability */
+  font-size: 1.5rem; /* Font size for the description */
 }
 
+/* Code block styling */
 .code {
-  background: #fafafa;
-  border-radius: 5px;
-  padding: 0.75rem;
-  font-size: 1.1rem;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-    Bitstream Vera Sans Mono, Courier New, monospace;
+  background: #fafafa; /* Light background for code blocks */
+  border-radius: 5px; /* Rounded corners */
+  padding: 0.75rem; /* Adds padding inside the block */
+  font-size: 1.1rem; /* Slightly larger font size */
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace; /* Monospace font */
 }
 
+/* Grid layout for cards */
 .grid {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  max-width: 800px;
+  display: flex; /* Uses flexbox for layout */
+  align-items: center; /* Centers items vertically */
+  justify-content: center; /* Centers items horizontally */
+  flex-wrap: wrap; /* Wraps the items onto new lines if necessary */
+  max-width: 800px; /* Limits the width of the grid */
 }
 
+/* Card styling */
 .card {
-  margin: 1rem;
-  padding: 1.5rem;
-  text-align: left;
-  color: inherit;
-  text-decoration: none;
-  border: 1px solid #eaeaea;
-  border-radius: 10px;
-  transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
+  margin: 1rem; /* Adds margin around the card */
+  padding: 1.5rem; /* Adds padding inside the card */
+  text-align: left; /* Aligns text to the left inside the card */
+  color: inherit; /* Inherits text color from parent */
+  text-decoration: none; /* Removes underline from links */
+  border: 1px solid #eaeaea; /* Adds a light border */
+  border-radius: 10px; /* Rounds the corners */
+  transition: color 0.15s ease, border-color 0.15s ease; /* Adds a smooth transition effect for hover */
+  max-width: 300px; /* Limits the maximum width of the card */
 }
 
+/* Hover, focus, and active states for cards */
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #0070f3; /* Changes text color on hover */
+  border-color: #0070f3; /* Changes border color on hover */
 }
 
+/* Heading inside cards */
 .card h2 {
-  margin: 0 0 1rem 0;
-  font-size: 1.5rem;
+  margin: 0 0 1rem 0; /* Adds margin below the heading */
+  font-size: 1.5rem; /* Sets font size for the card heading */
 }
 
+/* Paragraph styling inside cards */
 .card p {
-  margin: 0;
-  font-size: 1.25rem;
-  line-height: 1.5;
+  margin: 0; /* Removes margin */
+  font-size: 1.25rem; /* Sets font size */
+  line-height: 1.5; /* Sets line height for readability */
 }
 
+/* Logo styling inside the card */
 .logo {
-  height: 1em;
-  margin-left: 0.5rem;
+  height: 1em; /* Sets height relative to font size */
+  margin-left: 0.5rem; /* Adds left margin */
 }
 
+/* Mobile responsiveness: Adjusts grid layout for smaller screens */
 @media (max-width: 600px) {
   .grid {
-    width: 100%;
-    flex-direction: column;
+    width: 100%; /* Takes full width on smaller screens */
+    flex-direction: column; /* Stacks grid items vertically */
   }
 }
 
+/* Dark mode styles */
 @media (prefers-color-scheme: dark) {
   .card,
   .footer {
-    border-color: #222;
+    border-color: #222; /* Darker border for dark mode */
   }
   .code {
-    background: #111;
+    background: #111; /* Darker background for code blocks */
   }
   .logo img {
-    filter: invert(1);
+    filter: invert(1); /* Inverts colors of images for dark mode */
   }
 }
